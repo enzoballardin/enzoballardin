@@ -5,9 +5,9 @@
 <p align="left"> 
   I'm Enzo, a full-stack web developer from Brazil. 
   
-  Besides advanced knowledge on Javascript and its most popular frameworks (React, Next, Angular, Express, jQuery...), the 5+ years I've been coding gave me quite an experience with HTML and CSS, and some frontend frameworks like Bootstrap, Mantine, CoreUI..
+  I now have 4 years of experience on Javascript and its most popular frameworks (React, Next, Angular, Express, jQuery...), HTML and CSS, and some frontend frameworks like Bootstrap, Mantine, CoreUI..
   
-  I also have worked with Python (Django, specifically) for 2 years in my early carreer. I have some experience developing and deploying hybrid and native mobile applications using ReactNative and Ionic as well.
+  I also have worked with Python (Django, specifically) for a year. I have some experience developing and deploying hybrid and native mobile applications using ReactNative and Ionic as well.
 
   As a hobbie, I enjoy gaming and coding for personal projects. I usually work on IOT projects for home automation, but I also enjoy 3D printing, fishkeeping, and growing my favorite plants.
 </p>
