@@ -3,13 +3,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
+  I'm Enzo Ballardin Arcaro, a full-stack web developer from Brazil. Besides advanced knowledge on Javascript and its most popular frameworks (React, Next, Angular, Express, jQuery...), the 5+ years I've been coding gave me quite an experience with HTML and CSS, and some frontend frameworks like Bootstrap, Mantine, CoreUI.. I also have worked with Python (Django) for 2 years in my early carreer. I have some experience developing and deploying hybrid and native mobile applications using (ReactNative, Ionic) as well.
 
-<a href="https://github.com/iuricode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoballardin&theme=dracula&show_icons=true" />
-</a>
+  As a hobbie, I enjoy gaming and coding for personal projects. I usually work on IOT projects for home automation, but I also enjoy 3D printing, fishkeeping, and growing my favorite plants.
+</p>
 
 <p align="left">
   <a href="#" alt="Gmail">
