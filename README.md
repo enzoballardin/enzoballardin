@@ -5,7 +5,7 @@
 <p align="left"> 
   I'm Enzo, a full-stack web developer from Brazil. 
   
-  I now have 4 years of experience on Javascript and its most popular frameworks (React, Next, Angular, Express, jQuery...), HTML and CSS, and some frontend frameworks like Bootstrap, Mantine, CoreUI..
+  I currently have 4 years of experience on Javascript and its most popular frameworks (React, Next, Angular, Express, jQuery...), HTML and CSS, and some frontend frameworks like Bootstrap, Mantine, CoreUI..
   
   I also have worked with Python (Django, specifically) for a year. I have some experience developing and deploying hybrid and native mobile applications using ReactNative and Ionic as well.
 
